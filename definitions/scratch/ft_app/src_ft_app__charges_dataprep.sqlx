@@ -1,0 +1,24 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "charges_dataprep",
+    description: "",
+    columns: {
+      id: "",
+      provider_id: "",
+      amount: "",
+      reservation_id: "",
+      user_id: "",
+      inserted_at: "",
+      updated_at: "",
+      captured: "",
+      status: "",
+      errors: "",
+      capturable: "",
+      charge_account_id: "",
+      title: "",
+      total_amount: "",
+      billing_method_id: "",
+      payment_account_id: ""
+   },
+}
