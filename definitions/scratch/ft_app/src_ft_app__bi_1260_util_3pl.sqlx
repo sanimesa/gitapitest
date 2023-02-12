@@ -1,0 +1,21 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "bi_1260_util_3pl",
+    description: "A table created specifically for the analysis done in BI-1260",
+    columns: {
+      date_actual: "",
+      user_id: "",
+      item_id: "",
+      item_title: "",
+      item_inserted_at: "",
+      item_first_published_at: "",
+      item_deleted_at: "",
+      rental_status_started_at: "",
+      rental_status_ended_at: "",
+      rental_status: "",
+      rented_days: "",
+      unrented_days: "",
+      available_days: ""
+   },
+}
