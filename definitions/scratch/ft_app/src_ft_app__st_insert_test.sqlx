@@ -1,0 +1,11 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "st_insert_test",
+    description: "st_insert_test",
+    columns: {
+      id: "",
+      full_name: "",
+      age: ""
+   },
+}
