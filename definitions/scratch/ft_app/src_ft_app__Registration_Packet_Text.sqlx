@@ -4,6 +4,8 @@ config {
     name: "Registration_Packet_Text",
     description: "",
     columns: {
-None
+      id: "",
+      page: "",
+      _text: ""
    },
 }
