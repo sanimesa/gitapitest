@@ -1,0 +1,25 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "charge_line_items_dataprep",
+    description: "",
+    columns: {
+      id: "",
+      charge_id: "",
+      description: "",
+      amount: "",
+      inserted_at: "",
+      updated_at: "",
+      title: "",
+      name: "",
+      details: "",
+      reservation_id: "",
+      start_time: "",
+      end_time: "",
+      parent_charge_line_item_id: "",
+      status: "",
+      external_transaction_id: "",
+      invoice_id: "",
+      invoice_payment_id: ""
+   },
+}

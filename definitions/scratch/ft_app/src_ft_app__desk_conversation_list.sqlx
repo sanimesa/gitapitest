@@ -1,0 +1,12 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "desk_conversation_list",
+    description: "",
+    columns: {
+      id: "",
+      ticketNumber: "",
+      type: "",
+      conversation_id: ""
+   },
+}

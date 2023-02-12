@@ -1,0 +1,11 @@
+config {
+    type: "declaration",
+    schema: "scratch",
+    name: "Registration_Packet_Text",
+    description: "",
+    columns: {
+      id: "",
+      page: "",
+      _text: ""
+   },
+}
